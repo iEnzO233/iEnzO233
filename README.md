@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Vue 3 Projects
 - 📫 How to reach me im.enzo.021@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iEnzO233)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=iEnzO233)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
